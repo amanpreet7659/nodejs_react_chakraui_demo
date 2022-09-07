@@ -1,0 +1,19 @@
+.uploadFile {
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+.buttonContainer {
+    cursor: pointer;
+    position: relative;
+    /* background: #000000; */
+}
+
+.topButtons select {
+    width: 9%;
+}
